@@ -1,15 +1,39 @@
-h1
+
+html
 {
   font-family: Veranda;
-  font-weight: 300;
-  font-size: 42px;
-  color: White;
-  justify-content: center;
+  text-align: center;
   background-color: black;
 }
 
-#title
+h1
 {
-  font-size: 50px;
   font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+h2
+{
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+h5
+{
+  font-size: 21px;
+  color: Gray;
+}
+
+h6
+{
+  font-size: 16px;
+  color: Aquamarine;
+  text-decoration:underline;
+}
+
+#footer
+{
+  text-align: right;
 }
